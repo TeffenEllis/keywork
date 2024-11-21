@@ -22,7 +22,7 @@
     "@docusaurus/core": "2.3.1",
     "@docusaurus/plugin-pwa": "^2.3.1",
     "@docusaurus/preset-classic": "2.3.1",
-    "@mdx-js/react": "^1.6.22",
+    "@mdx-js/react": "^2.3.0",
     "algoliasearch": "^4.14.3",
     "clsx": "^1.2.1",
     "hast-util-has-property": "^2.0.1",
